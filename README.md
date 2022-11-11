@@ -1,16 +1,17 @@
-# xylophone_flutter
+Project Name:
+4. Xylophone App
 
-A new Flutter project.
+Project Description:
+The Xylophone app was implemented to learn the usage of packages from the pub.dev and learn to refactor the code by making separate widgets to make the code less complicated code and more reusability.
 
-## Getting Started
+Code:
+https://github.com/mtalharana/xylophone_flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Stay Tuned for my Thrilling, Consistent, and problem-solving flutter journey.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Please react with Love, Comment, Repost, or send it to those you care much, about this fantastic journey.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+ #flutter  #lahorejobs  #hr #ui
+#flutterdev #fluttercommunity #flutterjobs
