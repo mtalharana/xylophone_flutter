@@ -1,7 +1,7 @@
-Project Name:
-4. Xylophone App
 
-Project Description:
+# 4. Xylophone App
+
+
 The Xylophone app was implemented to learn the usage of packages from the pub.dev and learn to refactor the code by making separate widgets to make the code less complicated code and more reusability.
 
 Code:
